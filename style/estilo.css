@@ -1,0 +1,64 @@
+
+body{
+    background-image: url("../lila.jpg");
+    }
+    /*espacio ----------------------------------------------------- */
+  h1 {
+  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    font-size: 8vw;
+    background-image: url("../yo.jpg");
+    text-align: center;
+    color:rgb(73, 11, 97);
+    border-radius: 0.5vw;
+
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    padding: 50px 80px;
+    }
+    /*espacio ----------------------------------------------------- */
+    p {
+    font-size: 25px;
+    line-height: 50px;
+    background-color: rgb(229, 206, 255);
+    border-style: dashed;
+    border-width: 0px;
+    border-color: rgb(73, 11, 97);
+    border-radius: 0.7vw;
+    color: rgb(0, 0, 0);
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    padding: 50px 80px;
+     }
+     /*espacio ----------------------------------------------------- */
+    h2 {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Arial, sans-serif;
+        font-size: 35px;
+        line-height: 50px;
+        background-color: rgb(229, 206, 255);
+        border-style: dashed;
+        border-width: 10px;
+        /*border-color: rgb(254, 1, 153);*/
+        border-radius: 0.7vw;
+        color: rgb(73, 11, 97);
+        text-align: center;
+        background-image: url("../yo.jpg");
+    
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+    
+        padding: 50px 80px;
+    }
+
+
+            
+        
